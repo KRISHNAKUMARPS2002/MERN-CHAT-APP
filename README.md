@@ -40,7 +40,8 @@ NODE_ENV=...
 
 ### Preview
 
-![Preview](Screenshot_2024-02-15_220348.png)
+![Preview](Screenshot%202024-02-15%20220348.png)
+
 
 ### Deployment
 

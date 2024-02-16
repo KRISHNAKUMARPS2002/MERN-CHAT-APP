@@ -2,9 +2,6 @@
 
 This project is a real-time messaging application built with the MERN stack, Socket.io for real-time communication, TailwindCSS for styling, and Daisy UI for additional UI components. It features authentication with JWT, online user status tracking, global state management, error handling, and easy deployment.
 
-### Introduction
-
-This README provides an overview of the features, setup instructions, and deployment process for the Real-Time Messaging App. It includes essential information for setting up the environment variables, building the app, starting the server, and accessing the deployed application.
 
 ### Tech Stack
 
